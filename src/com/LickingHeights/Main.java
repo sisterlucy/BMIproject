@@ -1,11 +1,17 @@
 package com.LickingHeights;
 
+import java.util.Scanner;
+
 public class Main {
 
     public static void main(String[] args) {
-       int inches;
-       int pounds;
-       String Keyboard;
+       String inches;
+       String pounds;
+       Scanner keyboard;
+
+       keyboard= new Scanner(System.in);
+       
+
 
 	
     }
